@@ -5,4 +5,4 @@ domain:edge.twingyeo.kr
 domain:uri.life
 domain:usagicore.moe
 domain:mastodon.mnetwork.co.kr
-
+domain:qdon.tk
