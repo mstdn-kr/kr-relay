@@ -1,0 +1,8 @@
+domain:twingyeo.kr
+domain:qdon.space
+domain:planet.moe
+domain:edge.twingyeo.kr
+domain:uri.life
+domain:usagicore.moe
+domain:mastodon.mnetwork.co.kr
+
