@@ -1,0 +1,28 @@
+name: Relay Registration Request
+description: 릴레이 가입을 위한 정보를 입력합니다
+title: '[웹 주소 입력] 릴레이 가입 신청서'
+body:
+  - type: input
+    validations:
+      required: true
+    attributes:
+      label: 서버명
+      description: 릴레이의 가입할 서버의 이름을 입력해 주세요
+  - type: input
+    validations:
+      required: true
+    attributes:
+      label: 소프트웨어명
+      description: 서버가 사용하는 소프트웨어를 입력해 주세요
+  - type: input
+    validations:
+      required: true
+    attributes:
+      label: 웹 주소
+      description: 서버의 웹 주소를 입력해 주세요
+  - type: input
+    validations:
+      required: false
+    attributes:
+      label: 핸들 주소
+      description: 웹 주소와 핸들 주소가 다를 시 입력해 주세요
